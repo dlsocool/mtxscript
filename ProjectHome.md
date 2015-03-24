@@ -1,0 +1,1 @@
+MTX sCript is mirc script development tool.
